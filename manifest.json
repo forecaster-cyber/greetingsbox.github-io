@@ -1,6 +1,6 @@
 {
-    "name": "smadar_enjoyer",
-    "short_name": "smadar_enjoyer",
+    "name": "greetingsbox",
+    "short_name": "greetingsbox",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
